@@ -6,8 +6,6 @@ import {  tap } from 'rxjs/operators';
 import { DataInterface, RepoInterface, UserInterface } from './interfaces/MainInterfaces';
 
 
-
-//Write tests for this.
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
